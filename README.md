@@ -12,3 +12,11 @@ Sample App
 ---------------
 
 * Open the included sample app in Xcode 4.2 or above to see the sidebar in action
+
+
+Screenshots
+---------------
+
+![iPhone](https://github.com/bradya/BOASidebar/raw/master/ss1.png)
+
+![iPad](https://github.com/bradya/BOASidebar/raw/master/ss2.png)
